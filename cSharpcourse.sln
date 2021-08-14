@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{51DBD723-63BD-4498-BDE7-81CE023A3EE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflections", "Reflections\Reflections.csproj", "{7E8B91C4-7813-4ED5-B97B-541AFEA6052E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyWarehouseManagement", "PharmacyWarehouseManagement\PharmacyWarehouseManagement.csproj", "{CAD1D46E-0B92-4B2F-8B29-76E22146A065}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,14 @@ Global
 		{51DBD723-63BD-4498-BDE7-81CE023A3EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51DBD723-63BD-4498-BDE7-81CE023A3EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51DBD723-63BD-4498-BDE7-81CE023A3EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8B91C4-7813-4ED5-B97B-541AFEA6052E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8B91C4-7813-4ED5-B97B-541AFEA6052E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8B91C4-7813-4ED5-B97B-541AFEA6052E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8B91C4-7813-4ED5-B97B-541AFEA6052E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD1D46E-0B92-4B2F-8B29-76E22146A065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD1D46E-0B92-4B2F-8B29-76E22146A065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD1D46E-0B92-4B2F-8B29-76E22146A065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD1D46E-0B92-4B2F-8B29-76E22146A065}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
